@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.kinigit.android.evolve_simple_white">
+          package="com.kinigit.android.evolve_hellosms_theme">
 
     <application
             android:icon="@drawable/icon"

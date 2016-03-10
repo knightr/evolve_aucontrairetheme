@@ -17,7 +17,7 @@ android {
     buildToolsVersion "20.0.0"
 
     defaultConfig {
-        applicationId "com.klinker.android.evolve_sms.material"
+        applicationId "com.kinigit.android.evolve_hellosms_theme"
         minSdkVersion 14
         targetSdkVersion 20
         versionCode 1
@@ -45,20 +45,8 @@ android {
     }
 
     productFlavors {
-        green {
-            applicationId "com.klinker.android.evolve_sms.material.green"
-        }
-        blue {
-            applicationId "com.klinker.android.evolve_sms.material.blue"
-        }
-        orange {
-            applicationId "com.klinker.android.evolve_sms.material.orange"
-        }
-        purple {
-            applicationId "com.klinker.android.evolve_sms.material.purple"
-        }
-        red {
-            applicationId "com.klinker.android.evolve_sms.material.red"
+        hellosms {
+            applicationId "com.kinigit.android.evolve_hellosms_theme"
         }
     }
 
