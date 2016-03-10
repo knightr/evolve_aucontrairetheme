@@ -18,27 +18,27 @@ limitations under the License.
 <resources>
 
     <!-- Main theme color for various parts on the screen -->
-    <color name="theme_color">#5677fc</color>
-    <color name="night_theme_color">#3b50ce</color>
+    <color name="theme_color">#ffffff</color>
+    <color name="night_theme_color">#000000</color>
 
 
     <!-- the link color for any links in a message text -->
-    <color name="link_color">#ffb74d</color>
-    <color name="night_link_color">#ff9800</color>
+    <color name="link_color">#1976d2</color>
+    <color name="night_link_color">#1565c0</color>
 
 
     <!-- the color of the dividers in the conversation list -->
-    <color name="conversationDividerColor">#555677fc</color>
+    <color name="conversationDividerColor">#00000000</color>
 
 
     <!-- the background color of a selected conversation in the conversation list (ie, the conversation -->
     <!-- that the user is currently viewing -->
-    <color name="selectedConversationColor">#445677fc</color>
-    <color name="night_selectedConversationColor">#443b50ce</color>
+    <color name="selectedConversationColor">#616161</color>
+    <color name="night_selectedConversationColor">#bdbdbd</color>
 
 
     <!-- the colors for the status bar and nav bar -->
-    <color name="statusBar">#5677fc</color>
+    <color name="statusBar">#000000</color>
     <color name="navigationBar">#000000</color>
 
 </resources>

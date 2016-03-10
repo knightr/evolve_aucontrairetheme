@@ -18,36 +18,36 @@ limitations under the License.
 <resources>
 
     <!-- the text color drawn on the message for the body -->
-    <color name="textColorSent">#f1f1f1</color>
-    <color name="textColorReceived">#0e0e0e</color>
-    <color name="night_textColorSent">#f1f1f1</color>
-    <color name="night_textColorReceived">#f1f1f1</color>
+    <color name="textColorSent">#616161</color>
+    <color name="textColorReceived">#000000</color>
+    <color name="night_textColorSent">#bdbdbd</color>
+    <color name="night_textColorReceived">#ffffff</color>
 
 
     <!-- the text color drawn on the message for the date -->
-    <color name="dateColorSent">#efefef</color>
-    <color name="dateColorReceived">#4e4e4e</color>
-    <color name="night_dateColorSent">#efefef</color>
-    <color name="night_dateColorReceived">#efefef</color>
+    <color name="dateColorSent">#616161</color>
+    <color name="dateColorReceived">#000000</color>
+    <color name="night_dateColorSent">#bdbdbd</color>
+    <color name="night_dateColorReceived">#ffffff</color>
 
 
     <!-- the message entry color is for any message entry areas in the main window and the new message window -->
-    <color name="messageEntryColor">#0e0e0e</color>
-    <color name="night_messageEntryColor">#f1f1f1</color>
+    <color name="messageEntryColor">#000000</color>
+    <color name="night_messageEntryColor">#ffffff</color>
 
 
     <!-- the color of the message entry hint, ie the text that says "type message" -->
-    <color name="messageHintColor">#880e0e0e</color>
-    <color name="night_messageHintColor">#88f1f1f1</color>
+    <color name="messageHintColor">#616161</color>
+    <color name="night_messageHintColor">#bdbdbd</color>
 
 
     <!-- the color of the background for the drawer -->
-    <color name="drawerBackground">#ffffff</color>
-    <color name="night_drawerBackground">#292929</color>
+    <color name="drawerBackground">#bdbdbd</color>
+    <color name="night_drawerBackground">#616161</color>
 
     <!-- the color of the conversation drawer text -->
-    <color name="conversationTextColor">#0e0e0e</color>
-    <color name="night_conversationTextColor">#f4f4f4</color>
+    <color name="conversationTextColor">#000000</color>
+    <color name="night_conversationTextColor">#ffffff</color>
 
 
     <!-- the color of the dividers in the message list, setting to #00000000 will make them disappear -->
@@ -56,12 +56,12 @@ limitations under the License.
 
 
     <!-- the color of the dividers in the conversation list -->
-    <color name="night_conversationDividerColor">#000000</color>
+    <color name="night_conversationDividerColor">#00000000</color>
 
 
     <!-- the background color for the conversations, this is what shows behind the messages -->
-    <color name="backgroundColor">#d8d8d8</color>
-    <color name="night_backgroundColor">#262626</color>
+    <color name="backgroundColor">#ffffff</color>
+    <color name="night_backgroundColor">#000000</color>
 
 
     <!-- the colors for batch delete bubbles when the user is deleting conversations -->
@@ -83,10 +83,10 @@ limitations under the License.
 
 
     <!-- the colors for the text in the actionbar, normally the name and number of the contact -->
-    <color name="actionbarTitle">#f1f1f1</color>
-    <color name="actionbarSubtitle">#f1f1f1</color>
-    <color name="night_actionbarTitle">#f1f1f1</color>
-    <color name="night_actionbarSubtitle">#e1e1e1</color>
+    <color name="actionbarTitle">#000000</color>
+    <color name="actionbarSubtitle">#000000</color>
+    <color name="night_actionbarTitle">#ffffff</color>
+    <color name="night_actionbarSubtitle">#ffffff</color>
 
 
     <!-- the colors for the status bar and nav bar -->
@@ -96,6 +96,6 @@ limitations under the License.
 
     <!-- include any other colors you may want to use in your layout below, these will
          not have any effect except in your message.xml if you include them -->
-    <color name="night_sendbarBackground">#161616</color>
+    <color name="night_sendbarBackground">#000000</color>
 
 </resources>

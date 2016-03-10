@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.klinker.android.evolve_sms.material">
+          package="com.kinigit.android.evolve_simple_white">
 
     <application
             android:icon="@drawable/icon"
@@ -44,11 +44,11 @@
 
         <!-- Can be light, dark, or black, which defines the base theme you are building off of -->
         <meta-data android:name="evolve_theme_base"
-                   android:value="dark" />
+                   android:value="light" />
 
         <!-- can be light, dark, or default, which defines the icon to show in the actionbar inside the app -->
         <meta-data android:name="evolve_actionbar_icon"
-                   android:value="light" />
+                   android:value="dark" />
 
         <!-- says whether or not this theme has a night mode to be applied when user has night mode enabled -->
         <meta-data android:name="evolve_has_night_mode"
