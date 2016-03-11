@@ -83,8 +83,8 @@ limitations under the License.
 
 
     <!-- the colors for the text in the actionbar, normally the name and number of the contact -->
-    <color name="actionbarTitle">#000000</color>
-    <color name="actionbarSubtitle">#000000</color>
+    <color name="actionbarTitle">#ffffff</color>
+    <color name="actionbarSubtitle">#ffffff</color>
     <color name="night_actionbarTitle">#ffffff</color>
     <color name="night_actionbarSubtitle">#ffffff</color>
 
