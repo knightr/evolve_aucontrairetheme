@@ -1,9 +1,9 @@
-## EvolveSMS Theme - HelloSMS ##
+## Au Contraire - EvolveSMS Theme ##
 EvolveSMS theme based off of [hellosms](http://www.greenbot.com/article/2362963/why-hello-sms-offers-best-texting-experience-on-android.html)
 
-![HelloSMS Light](https://raw.githubusercontent.com/knightr/evolve_hellosmstheme/master/promo/screenshots/Screenshot_2016-03-10-13-58-02.png)
+![Au Contraire Light](https://raw.githubusercontent.com/knightr/evolve_hellosmstheme/master/promo/screenshots/Screenshot_2016-03-10-13-58-02.png)
 
-![HelloSMS Dark](https://raw.githubusercontent.com/knightr/evolve_hellosmstheme/master/promo/screenshots/Screenshot_2016-03-10-13-58-31.png)
+![Au Contraire Dark](https://raw.githubusercontent.com/knightr/evolve_hellosmstheme/master/promo/screenshots/Screenshot_2016-03-10-13-58-31.png)
 
 Running:
 
@@ -13,7 +13,7 @@ Running:
 
 ## License
 
-    Copyright 2016 Reid Knight
+    Copyright 2014 Jacob Klinker
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
