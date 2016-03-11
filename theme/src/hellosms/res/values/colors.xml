@@ -33,8 +33,8 @@ limitations under the License.
 
     <!-- the background color of a selected conversation in the conversation list (ie, the conversation -->
     <!-- that the user is currently viewing -->
-    <color name="selectedConversationColor">#616161</color>
-    <color name="night_selectedConversationColor">#bdbdbd</color>
+    <color name="selectedConversationColor">#ffffff</color>
+    <color name="night_selectedConversationColor">#000000</color>
 
 
     <!-- the colors for the status bar and nav bar -->
