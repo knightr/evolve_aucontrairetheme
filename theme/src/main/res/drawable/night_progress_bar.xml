@@ -15,7 +15,6 @@
 -->
 
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
-
     <item android:id="@android:id/background"
           android:drawable="@android:color/transparent" />
 
@@ -23,5 +22,4 @@
         <scale android:scaleWidth="100%"
                android:drawable="@android:color/transparent" />
     </item>
-
 </layer-list>
