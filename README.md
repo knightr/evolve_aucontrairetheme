@@ -5,8 +5,7 @@ EvolveSMS theme based off of [hellosms](http://www.greenbot.com/article/2362963/
 
 <img src="https://raw.githubusercontent.com/knightr/evolve_hellosmstheme/master/promo/screenshots/Screenshot_2016-03-11-12-39-37.png" height="500" />
 
-Running:
-
+#### Running
 ```groovy
 ./gradlew build
 ```
