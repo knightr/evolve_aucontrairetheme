@@ -7,17 +7,15 @@ buildscript {
     }
 }
 apply plugin: 'com.android.application'
-
 repositories {
-        mavenCentral()
+    mavenCentral()
 }
-
 android {
     compileSdkVersion 20
     buildToolsVersion "20.0.0"
 
     defaultConfig {
-        applicationId "com.kinigit.android.evolve_hellosms_theme"
+        applicationId "com.kinigit.android.evolve_aucontraire_theme"
         minSdkVersion 14
         targetSdkVersion 20
         versionCode 1
@@ -45,12 +43,19 @@ android {
     }
 
     productFlavors {
-        hellosms {
-            applicationId "com.kinigit.android.evolve_hellosms_theme"
+        aucontraire {
+            applicationId "com.kinigit.android.evolve_aucontraire_theme"
+            minSdkVersion 20
+            targetSdkVersion 21
+            versionCode 1
+            versionName '1.0'
         }
     }
 
     lintOptions {
         abortOnError false
     }
+}
+
+dependencies {
 }
